@@ -3,6 +3,21 @@
     <channel>
         <title>Otto</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Mon, 20 Jul 2026 08:28:12 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>1.2.0</h2>
+<p>Otto can now text you and call your phone, using your own Twilio account. Set it up in Settings under Text & calls, then pick how your morning briefing arrives — spoken, texted, or as a phone call. Otto only ever reaches your own number.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.2.0.dmg" length="3094250" type="application/octet-stream" sparkle:edSignature="kK94e2GMaZiFzqIS1u67bpfh7jQGL/S39iRnuGMqPenUU5oWdbNyd4Oikp9AFJRM5hZP66UeYMsvGdShk5G2AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto4-3.delta" sparkle:deltaFrom="3" length="284026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VPKUHBuzUhNcwuVgworBFa5c+3tW4R9V2yOhrcN/TtUIIqnyS5kgnP2B/Ie6SJYG2ppX+TR4WILbGxGBnertAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Mon, 20 Jul 2026 03:14:31 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
