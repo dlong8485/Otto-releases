@@ -3,6 +3,22 @@
     <channel>
         <title>Otto</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Mon, 20 Jul 2026 09:46:01 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>1.3.0</h2>
+<p>New Work schedule: keep your Costco shifts and hours, see your weekly total, and paste your schedule to have Otto fill it in. Otto (including the local model) can now answer questions about when you work and how many hours you have.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.3.0.dmg" length="3207643" type="application/octet-stream" sparkle:edSignature="h634/Qu3XaS05F5HpoDu04TQ2JmXrYpoo6HrA4Tb3K78ERdPUfRdGNWy24MOEwYZKjLe4Q1lZN+L49zBZbM+BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto5-4.delta" sparkle:deltaFrom="4" length="312290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Alzb+HsaGWQB0OUaEO0AQJo9HPIHESDpZsEjyzbcCMtLSSEw0haIE/gfqbe0Vg3m5m4QLKjl8kbD84bEmqFjBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto5-3.delta" sparkle:deltaFrom="3" length="400834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zjq8Oa2GU6XTJR4SH85/9Eot6dNa6FzsFMLmNmFhc/DCgRwVuo2GEy4is7lD9yBpHxZGLEdFtGrqiaIkZcepBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Mon, 20 Jul 2026 08:28:12 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -28,19 +44,6 @@
 <p>Bills now read correctly for past months — months before you started tracking a bill come to zero, and paying a new month no longer makes an older paid month look unpaid.</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.1.1.dmg" length="3057788" type="application/octet-stream" sparkle:edSignature="q7ILOvUfJCbDRnuwibBWBHKtDXfwfAs5qBu2wAEsX7wJ3yX0N0S6ZfHpPAbfXC7lCwUvrQJjCtwLY6B3YnxjAQ=="/>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 20 Jul 2026 03:02:20 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>1.1.0</h2>
-<p>Otto now updates itself — it checks once a day and asks before installing anything.</p>
-<p>Also fixed: bills no longer warn that a payment is overdue when it was due before you started tracking it, and the day-of-month field now accepts typed numbers instead of only plus and minus clicks.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.1.0.dmg" length="3053824" type="application/octet-stream" sparkle:edSignature="+TKJnk867CjLsr4akVzunf0MssVZcRQ0PmwNCutIbU2Qy2GowFiaFUoDYzdZWa+zGNjUUYaKiOnPO1AgUDdlDA=="/>
         </item>
     </channel>
 </rss>
