@@ -3,6 +3,18 @@
     <channel>
         <title>Otto</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Mon, 20 Jul 2026 03:14:31 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>1.1.1</h2>
+<p>Bills now read correctly for past months — months before you started tracking a bill come to zero, and paying a new month no longer makes an older paid month look unpaid.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.1.1.dmg" length="3057788" type="application/octet-stream" sparkle:edSignature="q7ILOvUfJCbDRnuwibBWBHKtDXfwfAs5qBu2wAEsX7wJ3yX0N0S6ZfHpPAbfXC7lCwUvrQJjCtwLY6B3YnxjAQ=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Mon, 20 Jul 2026 03:02:20 -0700</pubDate>
             <sparkle:version>2</sparkle:version>
