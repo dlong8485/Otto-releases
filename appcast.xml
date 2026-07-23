@@ -3,6 +3,25 @@
     <channel>
         <title>Otto</title>
         <item>
+            <title>1.5.5</title>
+            <pubDate>Thu, 23 Jul 2026 13:00:57 -0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>1.5.5</h2>
+<p>Otto stays fast after you've been away — it keeps its brain warmed up all day (and re-warms when your Mac wakes), and very long conversations no longer slow every answer down.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.5.5.dmg" length="3421464" type="application/octet-stream" sparkle:edSignature="DWXNtXpVSdnZsDlOTWxaefT/AyRUqKr5uHZcq8Il7hbgDp55gAebmx9H2Q1gtKnmNBLaAeJdBHG8RqJxVDKbBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-14.delta" sparkle:deltaFrom="14" length="212578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lKaynl9Rjt327WbaFCWpk9oirxE70c9/QgZKkauFRTU/kDzgIEQSmPNGy+3JiGSjOONnqYQIykPC/0nJ6QhvCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-13.delta" sparkle:deltaFrom="13" length="243090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KTpc0nTS8LHwM237HI1DD8zAu0IhZvMwp3uD1xeyGk/NeB6bIByi+C7LmV8fcdP116NZDcbEBjKLJhDWiOHtAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-12.delta" sparkle:deltaFrom="12" length="258834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="52/UPbFW8kjrfeYwyYcTJP4JeZAq5f4MTnHT94sYgJTSre8gIAmu3LTOT8000kJboOuwD3IQ305bRuj9fbOuBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-11.delta" sparkle:deltaFrom="11" length="269878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iNe7vQ1dF64sBKnkSJ9q5KPrYkLVowonn7S1ksCoPMY/VxTgP4oW2ZtKOJMJmI6qj7sgcpZPUI5FPzWrhEdMDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-10.delta" sparkle:deltaFrom="10" length="269866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XnNrqnSQ3qkiY1JWJiurnoDDD9BwGU1NA7ncVsjkg6uCSPQbVdBEiZTEKBzMr9zQWZ8bZ5vjtjLeG1YjXM/JCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.4</title>
             <pubDate>Thu, 23 Jul 2026 12:46:21 -0700</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -38,25 +57,6 @@
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto13-10.delta" sparkle:deltaFrom="10" length="227206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8/gAynBn7qA5oT05SVb1TUpSRCf/BQEuP0fBLQdbVzdOZFSLhy0T2DegTRsfGjdhPjtH0flJeU8dmRG86faMAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto13-9.delta" sparkle:deltaFrom="9" length="467822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XIMiUjPzWvirwTlDShnZRL5uUVGl3EuNZK4b8wq33Wep5wnqXZ+qzCR90cwIpnYH7zGYB6aP6/BbQIt0BWpHBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto13-8.delta" sparkle:deltaFrom="8" length="466038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dvw5TkkWh6GC5Tmek3Jum3ZsQFN8Va0d0eY5Ig9pztbgUL8BfIdpbE+ansXeg01TX+lIaY8QmlUIpHE5FTVQDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.2</title>
-            <pubDate>Thu, 23 Jul 2026 10:57:17 -0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>1.5.2</h2>
-<p>Switching models no longer makes the next answer slow — Otto now warms the new model up the moment you pick it.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.5.2.dmg" length="3407593" type="application/octet-stream" sparkle:edSignature="c3SzGejjOGUacNGp6kx4kDh/2512Fm+GPNsfsXDWq9qmAUBaiTdNQufbnYpb9f5v1ZPBrLpridGWgcNR00SODQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto12-11.delta" sparkle:deltaFrom="11" length="134622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8dLRNrBufL0bu9IRCb07vITaNmn/1VviqqrK9DOcQyzSIwliK5bC20k3iM5TZang63qHpLI+QjGsWkb1Ds8WCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto12-10.delta" sparkle:deltaFrom="10" length="190642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c/q4uDQijlNnu7rTNy7AH29x84R26y1ORjFDQv9xbcyftCHlDdcEf8MiSPBUbcYGJMmrZHRKWb/wWE6BNh7KDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto12-9.delta" sparkle:deltaFrom="9" length="453666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WkCkaIworDjjBtKeHqClHhCnLlrq0fdBEeykg4TEILZmEPoSg14AVm5FvZ+qSECnxjgBeTRIEI5z1VCF4/TNAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto12-8.delta" sparkle:deltaFrom="8" length="451518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8yn2emzprVyMCZSSEKlD1LGQARVVpLPb+dFv/MnmELSC0ZbgvMDxT8arlZ5p6eMWzq2oipjDxmX9sd767hjCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto12-7.delta" sparkle:deltaFrom="7" length="449742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rWR2Yv8xpLHPMwjCwuLVCrpdUxXXg5AwFHLCMyz1AuhTY0km+4O58BubdABwRAtf7RFpElDCN0mGO77BFh6sDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
