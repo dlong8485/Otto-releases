@@ -3,6 +3,25 @@
     <channel>
         <title>Otto</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Thu, 23 Jul 2026 20:51:33 -0700</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>1.7.0</h2>
+<p>Otto now handles school and money together: keep your class schedule next to your Costco shifts (with clash warnings), track assignments and paste in a syllabus, get quizzed from your own notes, see whether your next paycheck covers the bills due before the one after, have wake-up calls follow your schedule, and get a heads-up when an autopay bill comes in unusually high.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.7.0.dmg" length="3733585" type="application/octet-stream" sparkle:edSignature="FVToamDMtUhIg1tZb2VFjyU1AuRAaBgBNWwsJykd4j1l6QNBtBrAzONJC4OAAmz7pQgSsHuYcGb+biE6CVr2CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto17-16.delta" sparkle:deltaFrom="16" length="551602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2sMqscQQ4QusnOPt6CtxFMC8z3TKVg6OHS8Os+iYVo1KJzkcWo4CMtCLEZaeng4wFqJWmIT50Cn0bnokKllGDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto17-15.delta" sparkle:deltaFrom="15" length="628738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qQ4s16qkSxqbhXKJVe3fS/NHeRo2dq/MEmTukJGwHhGJhSOt/BNTuRESQY9J6W3/idjvJ3Yxn0L9RLq3NjnbDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto17-14.delta" sparkle:deltaFrom="14" length="635182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bAe5LiLrV9OrqZKZw2OhjCP9fOJz6pf7g7wSKmZ+JTETjKXXakIGHxGl3MjsKPzG4C9wYvCnaXCELjHbPGWLBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto17-13.delta" sparkle:deltaFrom="13" length="642174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kj9g+QKuGFJvVyQdvhAILSMUwtYcYJgnG5AcagfLoWpJrNjAiSulv0b82UF8Lqhz+gRN2mTYbO+ugLs9Ofs6Cw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto17-12.delta" sparkle:deltaFrom="12" length="647046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c2SbcPu3ZAdRJTlv5ph7VFiypCwQ+Q7dSi+A83EBgN1yjR5Xn2XFF3tMBjS8fEqBBephICYVfEcbHoXpe7hLDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Thu, 23 Jul 2026 13:27:53 -0700</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -38,25 +57,6 @@
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-12.delta" sparkle:deltaFrom="12" length="258834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="52/UPbFW8kjrfeYwyYcTJP4JeZAq5f4MTnHT94sYgJTSre8gIAmu3LTOT8000kJboOuwD3IQ305bRuj9fbOuBg=="/>
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-11.delta" sparkle:deltaFrom="11" length="269878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iNe7vQ1dF64sBKnkSJ9q5KPrYkLVowonn7S1ksCoPMY/VxTgP4oW2ZtKOJMJmI6qj7sgcpZPUI5FPzWrhEdMDw=="/>
                 <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto15-10.delta" sparkle:deltaFrom="10" length="269866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XnNrqnSQ3qkiY1JWJiurnoDDD9BwGU1NA7ncVsjkg6uCSPQbVdBEiZTEKBzMr9zQWZ8bZ5vjtjLeG1YjXM/JCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.4</title>
-            <pubDate>Thu, 23 Jul 2026 12:46:21 -0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>1.5.4</h2>
-<p>You can now mark a bill paid weeks ahead — Otto asks once to make sure, then records it. Also fixes the app feeling frozen while Otto is typing, and restores the August SMUD payment that yesterday's update wrongly removed.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto-1.5.4.dmg" length="3420413" type="application/octet-stream" sparkle:edSignature="l94Obak8PvUVl5wsjlimYV5RE1fIfdUETk6s5mVTJOq40wJMnE3zGSW78fPj6s4My3rqc5m73Y1o0hYpqvn5Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto14-13.delta" sparkle:deltaFrom="13" length="216110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2/0bMwxDfkxB+bMxxReQzLTDEfUv6rlztmBL338T/weStMA6tbhWL4+iu+3qjK9PDdyDfOL9dIml4eJZxwhDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto14-12.delta" sparkle:deltaFrom="12" length="219658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZnTihYw2yOh2wmzcrKbM1GoNQ+vY6yVwmac4JCeE7rv10u2ct3nuLMSQ5YqfLEj/3SRPuxtDdAuzUf72AilDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto14-11.delta" sparkle:deltaFrom="11" length="216398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dr28SjtJ+xQuTsim5FwfzYKUlgVjjD/2zc8pDI9AJSxhy9i+VyDUnnWJ2t++8l+OEjY6m0VQAcrAI9Hhi7G7Bw=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto14-10.delta" sparkle:deltaFrom="10" length="240966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bJZL8sckQTW499U+3pVaGqX0qKPKt21KwHjR5Q9VjnHft9dUwQnF4SvYnV1Xsd9S02QELc8TdUQINFZAaCtxBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/dlong8485/Otto-releases/main/Otto14-9.delta" sparkle:deltaFrom="9" length="479778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1IYfNayA4eleTVwk2Glp83XNOJaPGvFMwv6zKIo8S9IDE3mmXsllrUvz4MD9U5uS2gFZVwzKKC9uarLfwPSgBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
